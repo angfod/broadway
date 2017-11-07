@@ -1,0 +1,54 @@
+* {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+#broadway {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+a {
+  font-size: 18px;
+  color: white;
+}
+
+.headers {
+  background-image: url("./../images/background.png");
+  color: white;
+}
+
+.headerlinks {
+  font-size: 18px;
+}
+
+#process {
+  font-size: 32px;
+  font-weight: bold;
+  color: black;
+}
+
+.sublinks {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.explanations {
+  font-size: 14px;
+}
+
+#designed {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+#footer {
+  text-align: left;
+  color: white;
+  background-color: dimgray;
+}
+
+#copyright {
+  font-size: 11px;
+}
